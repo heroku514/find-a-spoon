@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "FindASpoon",
+    "slug": "find-a-spoon",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "scheme": "findaspoon",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.peakermap.findaspoon",
+      "buildNumber": "1",
+      "infoPlist": {
+        "CFBundleDisplayName": "Find a Spoon",
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FBF3E4",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

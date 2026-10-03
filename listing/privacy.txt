@@ -1,0 +1,5 @@
+Find a Spoon privacy
+
+Find a Spoon stores the current room hunt on this phone. The hunt is the room, the thing you are looking for, and how many things were found.
+
+The app does not collect personal data. It does not use an account, ads, a camera, or a network connection. Nothing is sent off the phone.
